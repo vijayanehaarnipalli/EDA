@@ -1,6 +1,6 @@
 # Exploratory Data Analysis (EDA) using Seaborn Datasets
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates **Exploratory Data Analysis (EDA)** using popular built-in datasets from the **Seaborn** library. The main focus is on understanding data structure, handling missing values, and visualizing relationships between numerical and categorical variables using Python visualization libraries.
 
@@ -11,7 +11,7 @@ The notebook/script explores two datasets:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas
@@ -22,7 +22,7 @@ The notebook/script explores two datasets:
 
 ---
 
-## 📂 Datasets Used
+##  Datasets Used
 
 ### 1. Tips Dataset
 
@@ -47,7 +47,7 @@ The notebook/script explores two datasets:
 
 ---
 
-## 🔍 Key Analysis Steps
+##  Key Analysis Steps
 
 ### 1. Data Understanding
 
@@ -74,7 +74,7 @@ The notebook/script explores two datasets:
 
 ---
 
-## 📊 Data Visualization
+##  Data Visualization
 
 ### Univariate Analysis
 
@@ -99,7 +99,7 @@ The notebook/script explores two datasets:
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 * Females had a higher survival rate than males
 * First-class passengers had better survival chances
@@ -109,7 +109,7 @@ The notebook/script explores two datasets:
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 1. Install dependencies:
 
@@ -127,7 +127,7 @@ python 18th_dec.py
 
 ---
 
-## 📌 Learning Outcomes
+##  Learning Outcomes
 
 * Practical EDA workflow
 * Handling missing data effectively
@@ -136,12 +136,12 @@ python 18th_dec.py
 
 ---
 
-## 👤 Author
+# Author
 
 Created for learning and practice in **Data Analysis & Visualization using Python**.
 
 ---
 
-## 📄 License
+##  License
 
 This project is for **educational purposes only**.
